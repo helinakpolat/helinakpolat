@@ -12,3 +12,28 @@ Bayburt Üniversitesi Bilgisayar Programcılığı öğrencisiyim.
 - İletişim: helinaklt0@icloud.com
 ### Projelerim
 - Vize projesi: Windows Forms hesap makinesi
+<div align="center">
+
+# Helin Akpolat
+
+**Bölümün / Unvanın • Uzmanlık Alanın • İlgi Alanların**
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profil-181717?style=flat&logo=github)](https://github.com/KULLANICI_ADIN)
+[![E-Posta](https://img.shields.io/badge/E--Posta-İletişim-D14836?style=flat&logo=gmail&logoColor=white)](mailto:eposta@adresin.com)
+![Profil Görüntülenme](https://komarev.com/ghpvc/?username=KULLANICI_ADIN&label=Profil%20Görüntülenme&color=0e75b6&style=flat)
+
+</div>
+
+---
+
+### 🙋‍♀️ Hakkımda · About
+
+```python
+class HelinAkpolat:
+    def __init__(self):
+        self.education = "Üniversite Adı - Bölüm Adı"
+        self.background = "Alanın / Geçmiş Deneyimlerin"
+        self.focus = ["Odak Alanı 1", "Odak Alanı 2", "Odak Alanı 3"]
+        self.creative = "Hobilerin / Yaratıcı İlgi Alanların"
+        self.location = "Şehir, Türkiye"
+        self.mindset = "Temiz yapı, sürekli gelişim ve pratik çözüm."
