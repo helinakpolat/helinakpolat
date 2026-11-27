@@ -35,5 +35,5 @@ class HelinAkpolat:
         self.background = "Alanın / Geçmiş Deneyimlerin"
         self.focus = ["Odak Alanı 1", "Odak Alanı 2", "Odak Alanı 3"]
         self.creative = "Hobilerin / Yaratıcı İlgi Alanların"
-        self.location = "Şehir, Türkiye"
+        self.location = "Elazığ, Türkiye"
         self.mindset = "Temiz yapı, sürekli gelişim ve pratik çözüm."
